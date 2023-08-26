@@ -82,4 +82,11 @@ footer{
     margin: 0 5%;
   }
 
+  .main-image1{
+    background-position: 0 200px;
+  }
+
+  .main-image2{
+    background-position: 0 180px;
+  }
 }
